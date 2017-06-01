@@ -20,7 +20,7 @@ function makeRainbow(element, timer) {
   //Check if both arguments are valid
   
   if (!element || !timer) {
-    alert("Error: invalid makeRainbow() arguments");
+    alert("Error: invalid makeRainbow() arguments"); //Testing to be improved in future
   }
   
   setInterval(function() {
