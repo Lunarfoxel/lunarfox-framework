@@ -49,8 +49,6 @@ function makeSnow() {
 
 function makeRain() {
 
-  //
+  //It's raining...
 
 };
-
-makeRainbow("dot", 1500);
