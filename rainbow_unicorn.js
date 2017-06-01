@@ -1,5 +1,5 @@
 
-//LunarFox Framework (C) Copyright 2017 Michael Ilic'. All Rights Reserved.
+//LunarFox Framework (C) Copyright 2017 Mike Rifty. All Rights Reserved.
 //
 //Alpha Stage Version, all modules to be consolidated into a single js file and minified
 //
